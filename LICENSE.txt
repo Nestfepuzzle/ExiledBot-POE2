@@ -24,4 +24,4 @@ Core Capabilities
 
 
 TAGS
-exiledbot, path-of-exile-2, poe2-bot, exiledbot-poe2, poe2-farm, arpg, poe2-2026, grinding-gear            
+exiledbot, path-of-exile-2, poe2-bot, exiledbot-poe2, poe2-farm, arpg, poe2-2026, grinding-gear             
